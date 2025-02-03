@@ -35,6 +35,22 @@ Follow these steps to set up the project locally:
 Simply open `index.html` in your browser! 🎉
 
 
+## Here are some screenshots of our app
+
+
+![image alt](https://github.com/meghanavemala/LearnKannada/blob/12b148c76876b1bb96a27bbd2861f486b96355d6/Screenshot%202025-02-03%20173006.png)
+
+![image alt](https://github.com/meghanavemala/LearnKannada/blob/12b148c76876b1bb96a27bbd2861f486b96355d6/Screenshot%202025-02-03%20173025.png)
+
+![image alt](https://github.com/meghanavemala/LearnKannada/blob/12b148c76876b1bb96a27bbd2861f486b96355d6/Screenshot%202025-02-03%20173042.png)
+
+![image alt](https://github.com/meghanavemala/LearnKannada/blob/12b148c76876b1bb96a27bbd2861f486b96355d6/Screenshot%202025-02-03%20173102.png)
+
+![image alt](https://github.com/meghanavemala/LearnKannada/blob/12b148c76876b1bb96a27bbd2861f486b96355d6/Screenshot%202025-02-03%20173124.png)
+
+![image alt](https://github.com/meghanavemala/LearnKannada/blob/12b148c76876b1bb96a27bbd2861f486b96355d6/Screenshot%202025-02-03%20173139.png)
+
+
 ## 📧 Contact
 For any queries, reach out at: [meghanavemala@gmail.com] 📬
 
